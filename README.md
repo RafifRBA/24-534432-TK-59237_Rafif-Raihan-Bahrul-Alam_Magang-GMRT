@@ -1,2 +1,3 @@
-# 24-534432-TK-59237_Rafif-Raihan-Bahrul-Alam_Magang-GMRT
-Tugas Day 2 Week 1
+# TUGAS DAY 2 WEEK 1
+Nama : Rafif Raihan Bahrul Alam
+NIM : 24/534432/TK/59237
